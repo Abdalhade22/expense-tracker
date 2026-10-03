@@ -1,0 +1,33 @@
+body {
+  background-color: #f5f6f8;
+}
+
+.summary-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+.summary-card {
+  border-left: 4px solid #0d6efd;
+}
+
+.filter-select {
+  width: 180px;
+}
+
+.table td,
+.table th {
+  white-space: nowrap;
+}
+
+@media (max-width: 767px) {
+  .summary-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .filter-select {
+    width: 100%;
+    margin-top: 0.5rem;
+  }
+}
