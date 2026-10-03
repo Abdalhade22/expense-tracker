@@ -6,6 +6,10 @@ I made this project to keep expenses in one place. I can add, edit, delete, and 
 
 [GitHub Repository](https://github.com/Abdalhade22/expense-tracker)
 
+## Demo Video
+
+[Watch the demo video on Google Drive](https://drive.google.com/file/d/1_M3UJCLy_4gKDzoGq67sQKPnViPa_JM7/view?usp=sharing)
+
 ## How to run
 
 ### Database
